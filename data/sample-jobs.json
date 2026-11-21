@@ -1,1 +1,74 @@
-
+[
+  {
+    "jobId": "JOB-001",
+    "title": "Software Engineering Intern",
+    "company": "G42",
+    "location": "Abu Dhabi",
+    "type": "Internship",
+    "emiratization": true,
+    "deadline": "2026-12-15",
+    "requiredSkills": ["Java", "Python", "Git", "SQL"],
+    "description": "Join G42's engineering team in Abu Dhabi to assist in building scalable cloud applications and data pipelines.",
+    "applyUrl": "https://g42.ai/careers"
+  },
+  {
+    "jobId": "JOB-002",
+    "title": "IT Support & Network Trainee",
+    "company": "e& (Etisalat)",
+    "location": "Al Ain",
+    "type": "Internship",
+    "emiratization": true,
+    "deadline": "2026-12-10",
+    "requiredSkills": ["Networking", "Windows Server", "Troubleshooting", "Communication"],
+    "description": "Assist regional IT operations in Al Ain with hardware diagnostics, network monitoring, and internal helpdesk tickets.",
+    "applyUrl": "https://eand.com/careers"
+  },
+  {
+    "jobId": "JOB-003",
+    "title": "Junior Frontend Web Developer",
+    "company": "Careem",
+    "location": "Dubai",
+    "type": "Full-Time",
+    "emiratization": false,
+    "deadline": "2026-12-20",
+    "requiredSkills": ["HTML", "CSS", "JavaScript", "React", "Git"],
+    "description": "Build responsive web interfaces and improve customer portal usability across Careem's regional services.",
+    "applyUrl": "https://careem.com/careers"
+  },
+  {
+    "jobId": "JOB-004",
+    "title": "Cybersecurity Analyst Intern",
+    "company": "DarkMatter / CPX",
+    "location": "Abu Dhabi",
+    "type": "Internship",
+    "emiratization": true,
+    "deadline": "2026-12-18",
+    "requiredSkills": ["Network Security", "Linux", "Python", "Cryptography"],
+    "description": "Support security operations center (SOC) analysts in threat monitoring, vulnerability scanning, and incident documentation.",
+    "applyUrl": "https://cpx.net/careers"
+  },
+  {
+    "jobId": "JOB-005",
+    "title": "Data Analytics Graduate Trainee",
+    "company": "First Abu Dhabi Bank (FAB)",
+    "location": "Abu Dhabi",
+    "type": "Full-Time",
+    "emiratization": true,
+    "deadline": "2026-12-28",
+    "requiredSkills": ["Excel", "SQL", "Python", "Data Visualization"],
+    "description": "Analyze retail banking metrics and build automated reporting dashboards for management teams.",
+    "applyUrl": "https://bankfab.com/careers"
+  },
+  {
+    "jobId": "JOB-006",
+    "title": "Junior QA & Software Tester",
+    "company": "Noon",
+    "location": "Dubai",
+    "type": "Part-Time",
+    "emiratization": false,
+    "deadline": "2026-12-12",
+    "requiredSkills": ["Manual Testing", "JavaScript", "Bug Tracking", "HTML"],
+    "description": "Execute functional test cases, log UI defects, and verify bug fixes across e-commerce web modules.",
+    "applyUrl": "https://noon.com/careers"
+  }
+]
