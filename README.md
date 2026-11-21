@@ -1,6 +1,6 @@
 # Software Project - Team 07
 
-## 📌 Project Overview
+## 📌 Project Overview: ADU CareerLink
 This repository contains the source code and documentation for the Team 07 software project.
 
 ## 👥 Team Members
